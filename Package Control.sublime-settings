@@ -1,0 +1,41 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"ApacheConf.tmLanguage",
+		"ApplySyntax",
+		"Blade Snippets",
+		"ColorPicker",
+		"CSS Extended Completions",
+		"Emmet",
+		"FileDiffs",
+		"GotoDocumentation",
+		"jQuery",
+		"Laravel Blade Highlighter",
+		"LESS",
+		"Package Control",
+		"PHP Companion",
+		"PHP Getters and Setters",
+		"PhpDoc",
+		"SFTP",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"Terminal",
+		"Theme - Soda",
+		"Trimmer"
+	],
+	"repositories":
+	[
+		"https://github.com/andruhon/SublimeAllAutocomplete",
+		"https://github.com/gnarula/sublime-laravelgenerator",
+		"https://github.com/gnarula/sublime-laravelgenerator.git"
+	]
+}
