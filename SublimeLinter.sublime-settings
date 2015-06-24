@@ -53,13 +53,18 @@
                 "args": [],
                 "excludes": [],
                 "jshint_options": {
-                    "eqeqeq": true
+                    "eqeqeq": false
                 }
             },
             "jsl": {
                 "@disable": false,
                 "args": [],
                 "conf": null,
+                "excludes": []
+            },
+            "jsxhint": {
+                "@disable": false,
+                "args": [],
                 "excludes": []
             },
             "php": {

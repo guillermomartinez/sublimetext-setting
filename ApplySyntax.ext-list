@@ -9,6 +9,10 @@
 		".jscsrc",
 		".jshintrc"
 	],
+	"JavaScript (Babel)":
+	[
+		"jsx"
+	],
 	"PHP":
 	[
 		"inc",

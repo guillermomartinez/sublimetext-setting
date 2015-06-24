@@ -10,5 +10,14 @@
 
     // Put your custom syntax rules here:
     "syntaxes": [
+    	{
+            "syntax": "Babel/JavaScript (Babel)",
+            "extensions": ["jsx"],
+            "match": "all",
+            "rules": [
+            	{"file_path": ".*\\.js$"},
+                {"contains": "React.createClass"}
+            ]
+        }
     ]
 }

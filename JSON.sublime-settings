@@ -3,6 +3,7 @@
 	[
 		".jscsrc",
 		".jshintrc",
-		".csslintrc"
+		".csslintrc",
+		".jsxhintrc"
 	]
 }
