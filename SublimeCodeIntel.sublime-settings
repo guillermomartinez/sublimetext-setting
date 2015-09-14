@@ -103,7 +103,7 @@
             PECL (for PHP: A collection of PHP Extensions)
     */
     "codeintel_selected_catalogs": [
-        "PyWin32", "jQuery", "Rails","PHP"
+        "PyWin32", "jQuery", "Rails","PHP","JavaScript"
     ],
 
     /*
