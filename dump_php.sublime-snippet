@@ -1,0 +1,8 @@
+<!-- PHP var_dump snipper for Sublime Text 2 -->
+<snippet>
+    <content><![CDATA[
+${1:echo '<pre>';}
+die(var_dump(${2:\$var}));
+]]></content>
+    <tabTrigger>dump_php</tabTrigger>
+</snippet>
