@@ -54,7 +54,7 @@
                 "excludes": []
             },
             "jshint": {
-                "@disable": false,
+                "@disable": true,
                 "args": [],
                 "excludes": [],
                 "jshint_options": {

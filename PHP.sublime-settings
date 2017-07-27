@@ -1,10 +1,13 @@
 {
+	"detect_indentation": false,
 	"extensions":
 	[
-		"inc",
-		"phtml",
-		"php5",
 		"php4",
+		"php5",
+		"phtml",
+		"inc",
 		"php3"
-	]
+	],
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true
 }
