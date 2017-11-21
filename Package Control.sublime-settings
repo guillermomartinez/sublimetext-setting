@@ -13,6 +13,7 @@
 		"Babel Snippets",
 		"Blade Snippets",
 		"BracketHighlighter",
+		"Chain of Command",
 		"ColorPicker",
 		"CSS Extended Completions",
 		"DocBlockr",
@@ -41,6 +42,8 @@
 		"Stylus",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-contrib-bashate",
+		"SublimeLinter-contrib-htmlhint",
 		"SublimeLinter-contrib-twiglint",
 		"SublimeLinter-csslint",
 		"SublimeLinter-html-tidy",
@@ -49,8 +52,7 @@
 		"SublimeLinter-php",
 		"Terminal",
 		"Theme - Soda",
-		"Trimmer",
-		"WinMerge"
+		"Trimmer"
 	],
 	"repositories":
 	[

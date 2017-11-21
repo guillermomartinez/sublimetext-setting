@@ -48,8 +48,13 @@
                 "ignore": "",
                 "warnings": ""
             },
+            "htmlhint": {
+                "@disable": true,
+                "args": [],
+                "excludes": []
+            },
             "htmltidy": {
-                "@disable": false,
+                "@disable": true,
                 "args": [],
                 "excludes": []
             },
@@ -77,8 +82,14 @@
                 "args": [],
                 "excludes": []
             },
-            "twiglint": {
+            "shellcheck": {
                 "@disable": false,
+                "args": [],
+                "exclude": "",
+                "excludes": []
+            },
+            "twiglint": {
+                "@disable": true,
                 "args": [],
                 "excludes": []
             }
@@ -108,6 +119,10 @@
             "php": "html",
             "python django": "python"
         },
+        "tooltip_fontsize": "1rem",
+        "tooltip_theme": "Packages/SublimeLinter/tooltip-themes/Default/Default.tooltip-theme",
+        "tooltip_theme_excludes": [],
+        "tooltips": false,
         "warning_color": "DDB700",
         "wrap_find": true
     }
