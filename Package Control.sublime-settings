@@ -6,7 +6,7 @@
 	"installed_packages":
 	[
 		"Alignment",
-		"ApacheConf.tmLanguage",
+		"ApacheConf",
 		"ApplySyntax",
 		"Autoprefixer",
 		"Babel",

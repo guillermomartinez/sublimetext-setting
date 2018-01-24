@@ -7,6 +7,14 @@
         "gutter_theme_excludes": [],
         "lint_mode": "save only",
         "linters": {
+            "bashate": {
+                "@disable": false,
+                "args": [],
+                "error": "",
+                "excludes": [],
+                "ignore": "",
+                "warn": ""
+            },
             "csslint": {
                 "@disable": false,
                 "args": [],
@@ -80,6 +88,7 @@
             "php": {
                 "@disable": false,
                 "args": [],
+                "cmd": "D:\\wamp\\bin\\php\\php5.6.32\\php.exe",
                 "excludes": []
             },
             "shellcheck": {
