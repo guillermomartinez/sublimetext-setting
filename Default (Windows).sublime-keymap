@@ -1,4 +1,4 @@
 [
-	{ "keys": ["f2"], "command": "side_bar_rename" },
-	{ "keys": ["f1"], "command": "goto_documentation" }
+    { "keys": ["f2"], "command": "side_bar_rename" },
+    { "keys": ["f1"], "command": "goto_documentation" }
 ]
