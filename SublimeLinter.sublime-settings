@@ -2,7 +2,7 @@
 {
 	"linters": {
         "php": {
-            "cmd": "D:\\wamp\\bin\\php\\php5.6.32\\php.exe"
+            "executable": "D:\\wamp\\bin\\php\\php5.6.32\\php.exe"
         }
     }
 }

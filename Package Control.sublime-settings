@@ -8,7 +8,11 @@
 		"ApacheConf",
 		"ApplySyntax",
 		"Blade Snippets",
+		"Chain of Command",
+		"Craft-Twig",
+		"DocBlockr",
 		"EditorConfig",
+		"EditorConfigSnippets",
 		"Emmet",
 		"GotoDocumentation",
 		"HTMLBeautify",
@@ -18,14 +22,20 @@
 		"LESS",
 		"Materialize",
 		"Package Control",
+		"PackageResourceViewer",
+		"PHP Completions Kit",
+		"PHP Zend Framework 2 Helper",
 		"PhpDoc",
+		"phpfmt",
 		"Pretty JSON",
+		"SFTP",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-csslint",
 		"SublimeLinter-jshint",
 		"SublimeLinter-php",
-		"Terminal"
+		"Terminal",
+		"Trimmer"
 	]
 }

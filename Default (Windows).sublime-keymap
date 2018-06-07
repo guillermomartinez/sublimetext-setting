@@ -1,4 +1,12 @@
 [
     { "keys": ["f2"], "command": "side_bar_rename" },
-    { "keys": ["f1"], "command": "goto_documentation" }
+    { "keys": ["f1"], "command": "goto_documentation" },
+    { "keys": ["shift+alt+r"], "command": "chain",
+        "args": {
+            "commands": [
+                ["delete_empty_lines"],
+                ["fmt_now"]
+            ]
+        }
+    }
 ]

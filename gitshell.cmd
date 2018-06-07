@@ -1,0 +1,1 @@
+cmd /c (start /b "%cd%" "C:\Program Files\Git\git-bash.exe") && exit
