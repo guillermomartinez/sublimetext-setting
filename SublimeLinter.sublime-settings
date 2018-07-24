@@ -3,6 +3,46 @@
 	"linters": {
         "php": {
             "executable": "D:\\wamp\\bin\\php\\php5.6.32\\php.exe"
+        },
+        "csslint": {
+          "@disable": false,
+           "errors": [
+            ],
+            "ignore": [
+                "non-link-hover",
+                "ids",
+                "display-property-grouping",
+                "empty-rules",
+                "underscore-property-hack",
+                "star-property-hack",
+                "text-indent",
+                "box-model",
+                "adjoining-classes",
+                "import",
+                "universal-selector",
+                "overqualified-elements",
+                "floats",
+                "font-sizes",
+                "important",
+                "unique-headings",
+                "order-alphabetical",
+                "known-properties",
+                "duplicate-properties",
+                "qualified-headings",
+                "duplicate-background-images",
+                "shorthand",
+                "zero-units",
+                "unqualified-attributes",
+                "regex-selectors",
+                "font-faces",
+                "bulletproof-font-face",
+                "fallback-colors",
+                "vendor-prefix",
+                "gradients",
+                "compatible-vendor-prefixes"
+            ],
+            "warnings": [
+            ]
         }
     }
 }

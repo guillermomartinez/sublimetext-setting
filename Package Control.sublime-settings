@@ -5,7 +5,6 @@
 	],
 	"installed_packages":
 	[
-		"ApacheConf",
 		"ApplySyntax",
 		"Blade Snippets",
 		"Chain of Command",
@@ -28,10 +27,10 @@
 		"PhpDoc",
 		"phpfmt",
 		"Pretty JSON",
-		"SFTP",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-contrib-lessc",
 		"SublimeLinter-csslint",
 		"SublimeLinter-jshint",
 		"SublimeLinter-php",
