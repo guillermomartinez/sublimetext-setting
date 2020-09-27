@@ -2,7 +2,7 @@
 {
 	"linters": {
         "php": {
-            "executable": "D:\\wamp\\bin\\php\\php5.6.32\\php.exe"
+            "executable": "D:\\wamp64\\bin\\php\\php5.6.40\\php.exe"
         },
         "csslint": {
           "@disable": false,

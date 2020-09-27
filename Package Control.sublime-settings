@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"ApacheConf",
 		"ApplySyntax",
 		"Blade Snippets",
 		"Chain of Command",
@@ -23,14 +24,12 @@
 		"Package Control",
 		"PackageResourceViewer",
 		"PHP Completions Kit",
-		"PHP Zend Framework 2 Helper",
 		"PhpDoc",
 		"phpfmt",
 		"Pretty JSON",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-contrib-lessc",
 		"SublimeLinter-csslint",
 		"SublimeLinter-jshint",
 		"SublimeLinter-php",
